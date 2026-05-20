@@ -1,0 +1,13 @@
+,coefficient
+cat__neighbourhood_group_Staten Island,-0.6596
+cat__room_type_Entire home/apt,0.6223
+cat__room_type_Shared room,-0.5072
+cat__neighbourhood_group_Manhattan,0.3527
+cat__neighbourhood_group_Queens,0.1714
+num__longitude,-0.1286
+cat__room_type_Private room,-0.1151
+num__availability_365,0.0893
+cat__neighbourhood_group_Brooklyn,0.0716
+num__has_reviews,-0.0645
+cat__neighbourhood_group_Bronx,0.0638
+num__minimum_nights,-0.0603

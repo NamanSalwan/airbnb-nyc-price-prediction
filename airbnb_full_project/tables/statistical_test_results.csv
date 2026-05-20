@@ -1,0 +1,2 @@
+group_1,n1,mean_1,group_2,n2,mean_2,mean_difference,t_statistic,p_value,ci_low,ci_high,cohens_d
+Entire home/apt,25013,189.1047,Private room,22233,83.3997,105.705,132.1999,0.0,104.1378,107.2722,1.1799

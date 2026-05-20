@@ -1,0 +1,10 @@
+,correlation_with_price
+price,1.0
+calculated_host_listings_count,0.151
+availability_365,0.113
+days_since_last_review,0.077
+latitude,0.067
+minimum_nights,0.029
+reviews_per_month,-0.053
+number_of_reviews,-0.056
+longitude,-0.274
